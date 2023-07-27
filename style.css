@@ -89,7 +89,7 @@ section{
     transition: 0.4s;
 }
 #home{
-    background-image: url(./element.png);
+    background-image: url(assets/element.png);
     background-repeat: no-repeat;
     background-position: top 80px left -50px;
 }
@@ -144,7 +144,7 @@ section{
 }
 
 #ourservices{
-    background-image: url(./Vector-1.png);
+    background-image: url(assets/Vector-1.png);
     background-repeat: no-repeat;
     background-size: 55% 100%;
     background-position: top 30px left -10px;
@@ -357,7 +357,7 @@ section{
 }
 
 #latest-article{
-    background-image: url(../Vector.png);
+    background-image: url(assets/Vector.png);
     background-repeat: no-repeat;
     background-size: 30%;
     background-position: top -20px right -10px;
@@ -524,7 +524,7 @@ section{
 }
 
 .p1{
-	background-image: url("../p1.png");
+	background-image: url("assets/p1.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -650,7 +650,7 @@ section{
     transition: 0.4s;
 }
 #home{
-    background-image: url(./element.png);
+    background-image: url(assets/element.png);
     background-repeat: no-repeat;
     background-position: top 80px left -50px;
 }
@@ -705,7 +705,7 @@ section{
 }
 
 #ourservices{
-    background-image: url(./Vector-1.png);
+    background-image: url(assets/Vector-1.png);
     background-repeat: no-repeat;
     background-size: 55% 100%;
     background-position: top 30px left -10px;
@@ -918,7 +918,7 @@ section{
 }
 
 #latest-article{
-    background-image: url(../Vector.png);
+    background-image: url(assets/Vector.png);
     background-repeat: no-repeat;
     background-size: 30%;
     background-position: top -20px right -10px;
@@ -1085,7 +1085,7 @@ section{
 }
 
 .p1{
-	background-image: url("../p1.png");
+	background-image: url("assets/p1.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -1190,7 +1190,7 @@ section{
 }
 @media screen and (max-width: 760px){
     #home{
-        background-image: url(../element.png);
+        background-image: url(assets/element.png);
         background-repeat: no-repeat;
         background-position: top 80px left -90px;
     }
